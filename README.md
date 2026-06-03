@@ -1,2 +1,5 @@
-# maven-project
-Project source code for https://www.udemy.com/the-complete-jenkins-course-for-developers-and-devops
+# Maven Project
+
+Java Maven CI/CD modernization lab.
+
+This repository keeps public-safe examples for database or Java build operations. Examples are generic and should be reviewed before use in a real environment.
